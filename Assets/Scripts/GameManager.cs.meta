@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 343ed922602ceda4b948b926417652db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _botoJugar: {fileID: 100000, guid: a6e39ced0ea046bcb636c3f0b2e2a745, type: 3}
+  - _nauJugador: {instanceID: 0}
+  - _generadorEnemics: {instanceID: 0}
+  - _textPuntsJugador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
